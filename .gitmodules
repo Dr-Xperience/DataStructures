@@ -1,3 +1,6 @@
 [submodule "BinaryTreeConstruction"]
 	path = BinaryTreeConstruction
 	url = git@github.com:Dr-Xperience/BinaryTreeConstruction.git
+[submodule "BinaryTreeOperations"]
+	path = BinaryTreeOperations
+	url = git@github.com:Dr-Xperience/BinaryTreeOperations.git
