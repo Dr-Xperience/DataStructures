@@ -28,7 +28,7 @@ set(CONFIGURATION_NAME "Debug")
 #}}}}
 
 # Projects
-add_subdirectory(${CMAKE_SOURCE_DIR}/BinaryTreeConstruction)
+add_subdirectory(${CMAKE_SOURCE_DIR}/BinaryTreeOperations)
 
 
 #{{{{ User Code 3
